@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **cdhwani03@gmail.com**
+- 📫 How to reach me **dhwani1274@gmail.com**
 
 - ⚡ Fun fact **Astrophile**
 

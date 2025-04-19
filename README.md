@@ -1,14 +1,14 @@
 [![MasterHead](https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png)]
 <h1 align="center">Hi 👋, I'm Dhwani Chauhan</h1>
-<h3 align="center">A passionate frontend developer from Indiaper from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvi003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvi003" /> </p>
 
-- 🔭 I’m currently working on **on my skills**
+- 🔭 I’m currently working on **improving my Data skills**
 
 - 🌱 I’m currently learning **Backend web developments**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Cyber Security, Data Engineering**
 
 - 📫 How to reach me **dhwani1274@gmail.com**
 

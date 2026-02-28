@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend web developments**
 
-- 💬 Ask me about **Cyber Security, Data Engineering**
+- 💬 Ask me about **Machine Learning, Data Engineering**
 
 - 📫 How to reach me **dhwani1274@gmail.com**
 

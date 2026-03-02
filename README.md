@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **improving my Data skills**
 
-- 🌱 I’m currently learning **Backend web developments**
+- 🌱 I’m currently learning **Backend web development**
 
 - 💬 Ask me about **Machine Learning, Data Engineering**
 

@@ -63,13 +63,12 @@ Architected a 4-node LangGraph agent graph (Planner → Retriever → Critic →
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvi003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&icon_color=2c5364" alt="Dhwani's GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dhruvi003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&icon_color=2c5364&count_private=true" alt="Dhwani's GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvi003&theme=tokyonight&hide_border=true&background=0d1117&ring=2c5364&fire=a8d8ea&currStreakLabel=a8d8ea" alt="Dhwani's Streak" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea" alt="Top Languages" width="40%" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8d8ea&count_private=true" alt="Top Languages" width="40%" />
+</p> -->
 
 ---
 
